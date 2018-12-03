@@ -1,4 +1,2 @@
 # FriendsRecommendationForYelpUsers
-suggesting friends to Yelp users based on similar interests
-
-Currently Narrowing down the scope to users who have reviwed business in Arizona. 
+User’s circle of friends influence decisions on servicesthey would want to take. We are more likely to avail acertain service previously used and liked by our friend.Therefore, it becomes more and more important to iden-tify community of like-minded people and then suggestfriends based on their interest match. Present socialnetworking sites recommend friends to users based ontheir social connections or geographical location, etc.In this paper, we describe a state-of-the-art approachof recommending friends that is based on the idea ofgrouping users who review businesses similarly intoa community and then recommending friends withintheir community who are similar with respect to cer-tain user attributes. It may be worthwhile for userswith similar reviewing patterns and behaviors to seeeach-other’s activity. Our approach involves applyingvarious community detection algorithms on a graph ofusers and further suggesting friends from same com-munity who are similar to them
